@@ -1,2 +1,5 @@
 Hello this is day1 of git
 this is line 2 in file 1
+new line
+htishsohashias
+iasj
